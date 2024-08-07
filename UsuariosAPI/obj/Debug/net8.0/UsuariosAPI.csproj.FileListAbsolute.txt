@@ -109,3 +109,4 @@ C:\curso\UsuariosAPI\UsuariosAPI\obj\Debug\net8.0\refint\UsuariosAPI.dll
 C:\curso\UsuariosAPI\UsuariosAPI\obj\Debug\net8.0\UsuariosAPI.pdb
 C:\curso\UsuariosAPI\UsuariosAPI\obj\Debug\net8.0\UsuariosAPI.genruntimeconfig.cache
 C:\curso\UsuariosAPI\UsuariosAPI\obj\Debug\net8.0\ref\UsuariosAPI.dll
+C:\curso\UsuariosAPI\UsuariosAPI\obj\Debug\net8.0\UsuariosAPI.sourcelink.json
