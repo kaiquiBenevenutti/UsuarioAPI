@@ -110,3 +110,11 @@ C:\curso\UsuariosAPI\UsuariosAPI\obj\Debug\net8.0\UsuariosAPI.pdb
 C:\curso\UsuariosAPI\UsuariosAPI\obj\Debug\net8.0\UsuariosAPI.genruntimeconfig.cache
 C:\curso\UsuariosAPI\UsuariosAPI\obj\Debug\net8.0\ref\UsuariosAPI.dll
 C:\curso\UsuariosAPI\UsuariosAPI\obj\Debug\net8.0\UsuariosAPI.sourcelink.json
+C:\curso\UsuariosAPI\UsuariosAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\curso\UsuariosAPI\UsuariosAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\curso\UsuariosAPI\UsuariosAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\curso\UsuariosAPI\UsuariosAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\curso\UsuariosAPI\UsuariosAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\curso\UsuariosAPI\UsuariosAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\curso\UsuariosAPI\UsuariosAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\curso\UsuariosAPI\UsuariosAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
